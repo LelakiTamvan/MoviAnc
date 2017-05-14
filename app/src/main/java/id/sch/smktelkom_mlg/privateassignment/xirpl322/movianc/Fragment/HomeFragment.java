@@ -62,7 +62,7 @@ public class HomeFragment extends Fragment {
 
 
         //String url = "https://newsapi.org/v1/sources?language=en";
-        String url = "https://api.themoviedb.org/3/movie/top_rated?api_key=b3d33e31e5a779cf4a466dd025e8ccf6";
+        String url = "https://api.themoviedb.org/3/movie/top_rated?api_key=42dc5611df70a1b20818684f7e5c0220";
 
         GsonGetRequest<SourcesResponse> myRequest = new GsonGetRequest<SourcesResponse>
                 (url, SourcesResponse.class, null, new Response.Listener<SourcesResponse>() {

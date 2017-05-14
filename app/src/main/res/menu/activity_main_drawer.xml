@@ -8,12 +8,12 @@
             android:title="HOME" />
         <item
             android:id="@+id/nav_now"
-            android:icon="@drawable/ic_fast_forward_black_24dp"
+            android:icon="@drawable/ic_local_movies_black_24dp"
             android:title="Now Playing" />
 
         <item
             android:id="@+id/nav_up"
-            android:icon="@drawable/ic_call_missed_outgoing_black_24dp"
+            android:icon="@drawable/ic_fiber_new_black_24dp"
             android:title="UP Coming Movie" />
 
     </group>
@@ -22,7 +22,7 @@
         <menu>
             <item
                 android:id="@+id/nav_about"
-                android:icon="@drawable/ic_insert_emoticon_black_24dp"
+                android:icon="@drawable/ic_person_outline_black_24dp"
                 android:title="About" />
         </menu>
     </item>

@@ -3,6 +3,8 @@
 <h3>Movianc</h3>
 <h2>Library dari Local Database yang digunakan pada Aplikasi :</h2>
 <h3>SQLite Dasar</h3>
+<h2>Link App</h2>
+<br>https://github.com/LelakiTamvan/MoviAnc/blob/master/MoviAnc%201.0.apk
 <h2>Identitas :</h2>
 <br>Nama lengkap      : Muhammad Sandro Duarsa
 <br>Kelas / No urut   : XIRPL3/22

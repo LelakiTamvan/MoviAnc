@@ -19,3 +19,7 @@ dalam mencari refrensi film dan juga sinopsis.
 <h2>Kelebihan dari Aplikasi</h2>
 Simple dan juga user friendly dan ukuran yang tidak terlalu besar
 <h2>Screenshot dari Aplikasi</h2>
+<br><img src="https://github.com/LelakiTamvan/MoviAnc/blob/master/1.jpg"/>
+<br><img src="https://github.com/LelakiTamvan/MoviAnc/blob/master/2.jpg"/>
+<br><img src="https://github.com/LelakiTamvan/MoviAnc/blob/master/3.jpg"/>
+
